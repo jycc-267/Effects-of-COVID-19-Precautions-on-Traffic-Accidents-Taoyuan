@@ -5,7 +5,7 @@
 ### Code and Visualization
 - [資料蒐集(Retrieving Data)](01_Get_Data.ipynb)
 - [斷點回歸建模(Regression Discontinuity Design)](02_RD_Model.ipynb)
-- [分析輸出(Creating Objects for the Statistical Analysis)](03_Empirical.ipynb)
+- [分析輸出(Creating Classes and Objects for the Statistical Analysis)](03_Empirical.ipynb)
 - [海報(Presentation Poster)](poster.pdf)
 - [視覺化(Visualization Results)](plot_result)
 - [書面報告(Paper Report)](report_paper.pdf)
